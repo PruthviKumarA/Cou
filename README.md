@@ -1,2 +1,3 @@
 # Cou
-Just a trail
+Just a trai
+I am editing the README file. Adding some more details about the project description.
